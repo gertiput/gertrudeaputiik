@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { Link } from 'gatsby'
-import floppy from '../images/floppy2.jpg'
+import floppy2 from '../images/floppy2.png'
 import sun from '../images/sun.svg'
 import moon from '../images/moon.svg'
 import kofi from '../../content/thumbnails/kofi.png'
