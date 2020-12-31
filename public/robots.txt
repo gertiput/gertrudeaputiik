@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://www.kojobartels.com/sitemap.xml
