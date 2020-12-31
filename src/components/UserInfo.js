@@ -14,7 +14,7 @@ export default class UserInfo extends Component {
             </div>
             <div>
               <p>
-                I’m Samuel Bartels. I document everything I learn and help thousands of people start
+                I’m Gertrude Aputiik. I document everything I learn and help thousands of people start
                 coding careers.{' '}
                 <strong>
                   My site has no ads, sponsors, or bullshit. If you enjoy my content, please
